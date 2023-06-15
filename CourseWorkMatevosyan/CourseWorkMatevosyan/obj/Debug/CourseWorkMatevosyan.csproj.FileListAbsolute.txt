@@ -1,0 +1,8 @@
+C:\Users\Дарья\source\repos\CourseWorkMatevosyan\CourseWorkMatevosyan\bin\Debug\CourseWorkMatevosyan.exe.config
+C:\Users\Дарья\source\repos\CourseWorkMatevosyan\CourseWorkMatevosyan\bin\Debug\CourseWorkMatevosyan.exe
+C:\Users\Дарья\source\repos\CourseWorkMatevosyan\CourseWorkMatevosyan\bin\Debug\CourseWorkMatevosyan.pdb
+C:\Users\Дарья\source\repos\CourseWorkMatevosyan\CourseWorkMatevosyan\obj\Debug\CourseWorkMatevosyan.csproj.AssemblyReference.cache
+C:\Users\Дарья\source\repos\CourseWorkMatevosyan\CourseWorkMatevosyan\obj\Debug\CourseWorkMatevosyan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дарья\source\repos\CourseWorkMatevosyan\CourseWorkMatevosyan\obj\Debug\CourseWorkMatevosyan.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\CourseWorkMatevosyan\CourseWorkMatevosyan\obj\Debug\CourseWorkMatevosyan.exe
+C:\Users\Дарья\source\repos\CourseWorkMatevosyan\CourseWorkMatevosyan\obj\Debug\CourseWorkMatevosyan.pdb
